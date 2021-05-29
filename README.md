@@ -3,7 +3,7 @@
 
 - 🎓 I'm currently pursuing **Masters in Data Science (2022) from SPPU, Pune.**
 - 🌱 I'm currently learning from [Coursera](https://www.coursera.org/) and [Kaggle](https://www.kaggle.com/).
-- 💻 I'm looking for an **Full-Time Job Opportunity** in **Data Science** domain.
+- 💻 I'm looking for a **Full-Time Job Opportunity** in **Data Science** domain.
 - 🤝🏻 I'm open for collaborations in **Data Science** and **Machine Learning** domains.
 - 🎯 Goal : **Contribute** openly to **Data Science and Machine Learning community**.
 - 📌 Scroll down to see my **Pinned Repositories**.
