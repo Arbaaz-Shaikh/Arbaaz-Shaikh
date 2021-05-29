@@ -1,5 +1,5 @@
 ### Hey there, I'm Arbaaz👋
-<img align='right' src="https://user-images.githubusercontent.com/52887465/120080670-b3160b00-c0d7-11eb-840a-954127a448bb.gif" width="320">
+<img align='right' src="https://i.pinimg.com/originals/7c/d5/3d/7cd53d36d121d839da9600ca055b01db.gif" width="300">
 
 - 🎓 I'm currently pursuing **Masters in Data Science (2022) from SPPU, Pune.**
 - 🌱 I'm constantly learning from [Coursera](https://www.coursera.org/) and [Kaggle](https://www.kaggle.com/).
