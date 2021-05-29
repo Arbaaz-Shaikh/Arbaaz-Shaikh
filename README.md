@@ -1,5 +1,5 @@
 ### Hey there, I'm Arbaaz👋
-<img align='right' src="https://www.womanthology.co.uk/wp-content/uploads/2017/06/facescan.gif" width="200">
+<img align='right' src="https://www.edgica.com/wp-content/files/ai01.gif" width="200">
 
 - 🎓 I'm currently pursuing **Masters in Data Science (2022) from SPPU, Pune.**
 - 🌱 I'm constantly learning from [Coursera](https://www.coursera.org/) and [Kaggle](https://www.kaggle.com/).
