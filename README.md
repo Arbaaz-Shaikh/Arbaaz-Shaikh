@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hey there, I'm Arbaaz👋
+<img align='right' src="https://s7.gifyu.com/images/WhatsApp-Image-2020-07-14-at-11.34.49-1.gif" width="210">
 
-<!--
-**Arbaaz-Shaikh/Arbaaz-Shaikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 I'm currently pursuing **Masters in Data Science (2022) from SPPU, Pune.**
+- 🌱 I'm currently learning from [Coursera](https://www.coursera.org/) and [Kaggle](https://www.kaggle.com/).
+- 💻 I'm looking for an **Full-Time Job Opportunity** in **Data Science** domain.
+- 🤝🏻 I'm open for collaborations in **Data Science** and **Machine Learning** domains.
+- 🎯 Goal : **Contribute** openly to **Data Science and Machine Learning community**.
+- 📌 Scroll down to see my **Pinned Repositories**.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect me on:
+- LinkedIn: https://www.linkedin.com/in/arbaaz-shaikh-2635707b/
+- Portfolio: https://arbaaz-shaikh.github.io/
+- Twitter: https://twitter.com/imfrank10
+- Instagram: https://www.instagram.com/arbaaz0_0shaikh/
+- 
+_**Note:** Please **do not spam** on the above mentioned profiles._
