@@ -1,4 +1,4 @@
-##### Hey there, I'm Arbaaz👋
+### Hey there, I'm Arbaaz👋
 <img align='right' src="https://media.giphy.com/media/7c8QeB0VMddFOuu4iR/giphy.gif" width="210">
 
 - 🎓 I'm currently pursuing **Masters in Data Science (2022) from SPPU, Pune.**
