@@ -1,5 +1,5 @@
 ### Hey there, I'm Arbaaz👋
-<img align='right' src="https://s7.gifyu.com/images/WhatsApp-Image-2020-07-14-at-11.34.49-1.gif" width="210">
+<img align='right' src="https://media.giphy.com/media/7c8QeB0VMddFOuu4iR/giphy.gif" width="210">
 
 - 🎓 I'm currently pursuing **Masters in Data Science (2022) from SPPU, Pune.**
 - 🌱 I'm currently learning from [Coursera](https://www.coursera.org/) and [Kaggle](https://www.kaggle.com/).
@@ -14,5 +14,5 @@
 - Portfolio: https://arbaaz-shaikh.github.io/
 - Twitter: https://twitter.com/imfrank10
 - Instagram: https://www.instagram.com/arbaaz0_0shaikh/
-- 
+
 _**Note:** Please **do not spam** on the above mentioned profiles._
